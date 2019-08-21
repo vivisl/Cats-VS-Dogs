@@ -5,7 +5,7 @@ Classification for cats and dogs with Tensorflow implementation
 * [Data preprocessing](#Data-preprocessing)
 * [Epochs processing](#Epochs-processing)
 * [Building the classifier](#Building-the-classifier)
-* [Create the Estimator](#contact)
+* [Create the Estimator](#Create-the-Estimator)
 * [Training and Evaluating](#Training-and-Evaluating)
 
 # Data organization
