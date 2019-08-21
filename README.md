@@ -17,5 +17,4 @@ This structure will allow our model to know from which folder to fetch the image
 
 
 
-![alt tag](http://b369.photo.store.qq.com/psb?/V13jsLBD468Rbj/Fi3nkGu.SgZ5.pO5uAc05sIRqqH03Y6LCnixa2h5eY8!/b/dHEBAAAAAAAA&bo=gAJVAwAAAAAFB*A!&rf=viewer_4
-)
+![alt tag](http://m.qpic.cn/psb?/V13jsLBD3Y4Bf1/la7Qv7bC3.6Mu26HmPYKpL0NBq5bY3*zkjPgGKHPmWk!/b/dFQBAAAAAAAA&bo=IwFMAgAAAAARB1w!&rf=viewer_4)
