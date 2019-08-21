@@ -12,4 +12,4 @@ create a data folder in which we'll have in 2 subfolders: ./Train and ./Validati
 Each of them will have 2 folders: ./cats and ./Dogs
 This structure will allow our model to know from which folder to fetch the images as well as their labels for either training or validation.
 
-![alt tag](http://m.qpic.cn/psb?/V13jsLBD3Y4Bf1/la7Qv7bC3.6Mu26HmPYKpL0NBq5bY3*zkjPgGKHPmWk!/b/dFQBAAAAAAAA&bo=IwFMAgAAAAARB1w!&rf=viewer_4)
+![alt tag](http://a3.qpic.cn/psb?/V13jsLBD3Y4Bf1/16upB2c3Rz2RsWqLVxGjWktBuG.UDCbG*DWR1kLl.vk!/b/dLYAAAAAAAAA&ek=1&kp=1&pt=0&bo=IwFMAgAAAAARF0w!&tl=3&vuin=442394235&tm=1566381600&sce=60-1-1&rf=viewer_4)
