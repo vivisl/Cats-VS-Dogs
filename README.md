@@ -3,7 +3,7 @@ Classification for cats and dogs with Tensorflow implementation
 # Outline
 * [Data organization](#Data organization)
 * [Data preprocessing](#Data preprocessing)
-* [Building the Classifier](#Building Classifier)
+* [Building the classifier](#Building the classifier)
 * [Create the Estimator](#contact)
 * [Training and Evaluating](#Training and Evaluating)
 
